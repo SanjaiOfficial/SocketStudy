@@ -82,10 +82,12 @@ while True:
 ```
 ## OUTPUT
  ### CLIENT:
-![image](https://github.com/SanjaiOfficial/SocketStudy/assets/151763180/f98b1d2e-7175-4fc6-9a87-e7a15d017ec9)
+![image](https://github.com/SanjaiOfficial/SocketStudy/assets/151763180/8e27d662-bd1d-47ff-b3eb-f968204ebe20)
+
 
  ### SERVER:
- ![image](https://github.com/SanjaiOfficial/SocketStudy/assets/151763180/1d879e02-3436-4ced-aa43-21b09b6b116f)
+![image](https://github.com/SanjaiOfficial/SocketStudy/assets/151763180/88b96ba0-e2c3-4a3a-963b-d2a224dda262)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
